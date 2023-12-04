@@ -8,9 +8,11 @@ and then stored in the database. The files can be retrieved from the database an
 You will need to have the following installed on your computer:
 
 1. Java (I used 21)
-2. MySQL
+2. MySQL Server (I used 8.0.35)
 3. Apache Maven
-4. Google generated app password (for sending emails)
+4. Google generated app password for sending emails (Not your regular google-account password)
+
+Development OS: Ubuntu 22.04
 
 ## Maven Dependencies
 
