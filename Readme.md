@@ -92,3 +92,5 @@ I am Mohd Mohitur Rahaman, a tech geek, currently pursuing a Master's in Compute
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/mohitur02/)
+
+**Note:** This project was inspired from Sheriyans Coding School YouTube channel. Video link - [here](https://www.youtube.com/watch?v=Z6OqYHqxt7c)
