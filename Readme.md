@@ -23,8 +23,6 @@ The following dependencies are required for this project:
 Add these dependencies to your pom.xml file:create table data (id int primary key auto_increment, name varchar(100),
 path varchar(255), email varchar(100), bin_data blob);
 
-
-
 ```xml
 <dependencies>
     <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
