@@ -1,7 +1,6 @@
 # Hide Files in MySQL Database
 
-This is a Java project that allows you to hide files in a MySQL database. The files are encrypted using AES encryption
-and then stored in the database. The files can be retrieved from the database and decrypted.
+This is a simple Java application that allows you to hide local files in a MySQL database.
 
 ## Prerequisites
 
@@ -21,7 +20,10 @@ The following dependencies are required for this project:
 1. mysql-connector-java
 2. javax.mail
 
-Add these dependencies to your pom.xml file:
+Add these dependencies to your pom.xml file:create table data (id int primary key auto_increment, name varchar(100),
+path varchar(255), email varchar(100), bin_data blob);
+
+
 
 ```xml
 <dependencies>
