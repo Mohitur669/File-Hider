@@ -80,7 +80,7 @@ create table data
 
 3. If all things done correctly, you should be able to run the project and use it.
 
-# Running the Project
+## Running the Project
 
 1. Clone the project to your computer
 2. Open the project in your IDE
