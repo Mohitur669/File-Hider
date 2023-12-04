@@ -36,11 +36,10 @@ Add these dependencies to your pom.xml file:
         <artifactId>javax.mail</artifactId>
         <version>1.6.2</version>
     </dependency>
-
 </dependencies>
 ```
 
-Note: Always check for proper version of dependencies regarding your project.
+**Note:** Always check for proper version of dependencies regarding your project.
 
 ## Using the Project
 
