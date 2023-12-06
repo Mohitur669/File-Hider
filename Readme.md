@@ -20,8 +20,7 @@ The following dependencies are required for this project:
 1. mysql-connector-java
 2. javax.mail
 
-Add these dependencies to your pom.xml file:create table data (id int primary key auto_increment, name varchar(100),
-path varchar(255), email varchar(100), bin_data blob);
+Add these dependencies to your pom.xml file:
 
 ```xml
 <dependencies>
