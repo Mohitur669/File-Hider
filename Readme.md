@@ -1,6 +1,6 @@
 # Hide Files in MySQL Database
 
-This is a simple Java application that allows you to hide local files in a MySQL database.
+This simple Java application allows you to hide local files in a MySQL database.
 
 ## Prerequisites
 
@@ -9,9 +9,9 @@ You will need to have the following installed on your computer:
 1. Java (I used 21)
 2. MySQL Server (I used 8.0.35)
 3. Apache Maven
-4. Google generated app password for sending emails (Not your regular google-account password)
+4. Google-generated app password for sending emails (Not your regular google-account password)
 
-Development OS: Ubuntu 22.04
+My Development OS: Ubuntu 22.04
 
 ## Maven Dependencies
 
@@ -40,7 +40,7 @@ Add these dependencies to your pom.xml file:
 </dependencies>
 ```
 
-**Note:** Always check for proper version of dependencies regarding your project.
+**Note:** Always check for the proper version of dependencies regarding your project.
 
 ## Using the Project
 
@@ -78,7 +78,7 @@ create table data
 );
 ```
 
-3. If all things done correctly, you should be able to run the project and use it.
+3. If everything is done correctly, you should be able to run and use the project.
 
 ## Running the Project
 
@@ -87,7 +87,7 @@ create table data
 3. Run the "Main" class inside /src/main/java
 
 ## About Me
-I am Mohd Mohitur Rahaman, a tech geek, currently pursuing a Master's in Computer Applications from KIIT, Bhubaneswar. And with a deep passion for coding and a strong love for science & technology, I am dedicated to honing my skills and achieving proficiency as a developer.
+I am Mohd Mohitur Rahaman, a tech geek pursuing a Master's in Computer Applications from KIIT, Bhubaneswar. With a deep passion for coding and a strong love for science & technology, I am dedicated to honing my skills and achieving proficiency as a developer.
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/mohitur02/)
