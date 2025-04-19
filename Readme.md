@@ -26,9 +26,9 @@ Add these dependencies to your pom.xml file:
 <dependencies>
     <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
     <dependency>
-        <groupId>mysql</groupId>
-        <artifactId>mysql-connector-java</artifactId>
-        <version>8.0.33</version>
+        <groupId>com.mysql</groupId>
+        <artifactId>mysql-connector-j</artifactId>
+        <version>9.2.0</version>
     </dependency>
 
     <!-- https://mvnrepository.com/artifact/com.sun.mail/javax.mail -->
